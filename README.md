@@ -1,15 +1,15 @@
-# 🤖 Warehouse Robot Simulator
+#  Warehouse Robot Simulator
 
 A Python-based simulation demonstrating pathfinding algorithms and route optimization strategies in a grid-based warehouse environment.
 
-## 🚀 Overview
+##  Overview
 This project simulates an autonomous robot navigating a warehouse to collect packages. It visualizes the trade-offs between different navigation strategies, tracking metrics like **Energy Consumption** and **Time Efficiency**.
 
 It was built to demonstrate:
 * **Pathfinding:** A* (A-Star) Algorithm for obstacle avoidance.
 * **Route Optimization:** A greedy "Nearest Neighbor" approach to solve the Traveling Salesman Problem (TSP).
 
-## 🛠️ Features
+##  Features
 * **Interactive Grid:** Left-click to place orders, Right-click to place walls/shelves.
 * **Two Operation Modes:**
     1.  **Single Return:** Robot returns home after every package (Low efficiency).
@@ -17,7 +17,7 @@ It was built to demonstrate:
 * **Real-time Metrics:** Live tracking of distance traveled and time elapsed.
 * **Dynamic Visuals:** built with `pygame`.
 
-## 🎮 Controls
+##  Controls
 | Key / Action | Function |
 |:---|:---|
 | **Left Click** | Place an Order (Target) |
