@@ -9,6 +9,10 @@ It was built to demonstrate:
 * **Pathfinding:** A* (A-Star) Algorithm for obstacle avoidance.
 * **Route Optimization:** A greedy "Nearest Neighbor" approach to solve the Traveling Salesman Problem (TSP).
 
+## 📄 Project Report
+For a detailed explanation of the algorithms (A* & TSP), mathematical proofs, and performance analysis, please refer to the full project report:
+**[Read the Full Report (PDF)](./warehouse_bot_simulator_project_report.pdf)**
+
 ## 🛠️ Features
 * **Interactive Grid:** Left-click to place orders, Right-click to place walls/shelves.
 * **Two Operation Modes:**
