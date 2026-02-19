@@ -11,7 +11,7 @@ It was built to demonstrate:
 
 ## 📄 Project Report
 For a detailed explanation of the algorithms (A* & TSP), mathematical proofs, and performance analysis, please refer to the full project report:
-**[Read the Full Report (PDF)](./warehouse_bot_simulator_project_report.pdf)**
+**[Read the Full Report (PDF)](./wbs_project_report.pdf)**
 
 ## 🛠️ Features
 * **Interactive Grid:** Left-click to place orders, Right-click to place walls/shelves.
